@@ -18,8 +18,8 @@ Outliers badly affect mean and standard deviation of the dataset. These may stat
 - Step4: Remove the outliers.
 - Step5: Plot the datas using Box Plot.
 ```
-212222230002
-ABINAYA S
+212221230078
+PRANEET S
 ```
 ### Code:
 ##### bhp.csv:
